@@ -42,7 +42,7 @@ def containDuplicate(nums):
 nums = [1, 2, 3, 4]
 print(
     containDuplicate(nums)
-)  # It output give as False because given a number of value is not duplicate and it is distinct type so that
+)  # It output give as False because given a number of value is not duplicate and it is distinct type so that thye are give us False in output.
 
 
 def containDupicate(nums):
@@ -60,4 +60,4 @@ def containDupicate(nums):
 nums = [1, 2, 3, 3, 4]
 print(
     containDupicate(nums)
-)  # it output give as True becuase given a number of value is duplicate and it is not distinct type so that they are give us True in output
+)  # it output give as True becuase given a number of value is duplicate and it is not distinct type so that they are give us True in output.
