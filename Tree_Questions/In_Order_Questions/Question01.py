@@ -1,4 +1,4 @@
-# Questions :----- 94. Binary Tree Inorder Traversal
+# Questions :----- 94.Binary Tree Inorder Traversal
 
 """
 Problem Statements :---
