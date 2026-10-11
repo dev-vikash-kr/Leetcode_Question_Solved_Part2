@@ -1,4 +1,4 @@
-# Questions :----- 94.Binary Tree Inorder Traversal
+# Questions :----- 94.Binary Tree Inorder Traversal.
 
 """
 Problem Statements :---
@@ -55,4 +55,3 @@ def inorderTrversal(root):
                 result.append(curr.val)
                 curr = curr.right
     return result
-
