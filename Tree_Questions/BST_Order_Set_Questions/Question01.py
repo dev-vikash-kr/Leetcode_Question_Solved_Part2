@@ -1,4 +1,4 @@
-# Questions :-  669. Trim a Binary Search Tree
+# Questions :-  669.Trim a Binary Search Tree
 
 """
 
