@@ -39,19 +39,19 @@ Only one valid answer exists
 # Code :--
 
 
-# def twoSum(nums, target):
-#     for i, a in enumerate(nums):
-#         for j, b in enumerate(nums):
-#             if i == j:
-#                 continue
+def twoSum(nums, target):
+    for i, a in enumerate(nums):
+        for j, b in enumerate(nums):
+            if i == j:
+                continue
 
-#             if a + b == target:
-#                 return (i, j)
+            if a + b == target:
+                return (i, j)
 
 
-# num = [1, 3, 4, 5]
-# target = 8
-# print(twoSum(num, target))
+num = [1, 3, 3, 4, 5]
+target = 8
+print(twoSum(num, target))
 
 
 # Brute Froce
